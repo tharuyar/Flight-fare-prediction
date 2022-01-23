@@ -1,0 +1,18 @@
+body {
+    background-image: url("../static/tharunflight.jpg");
+    background-color: #9c4e1a;
+
+    text-align: center;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
